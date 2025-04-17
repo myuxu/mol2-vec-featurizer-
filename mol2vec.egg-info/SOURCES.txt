@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+mol2vec/__init__.py
+mol2vec/features.py
+mol2vec/helpers.py
+mol2vec.egg-info/PKG-INFO
+mol2vec.egg-info/SOURCES.txt
+mol2vec.egg-info/dependency_links.txt
+mol2vec.egg-info/entry_points.txt
+mol2vec.egg-info/not-zip-safe
+mol2vec.egg-info/requires.txt
+mol2vec.egg-info/top_level.txt
+mol2vec/app/__init__.py
+mol2vec/app/mol2vec.py

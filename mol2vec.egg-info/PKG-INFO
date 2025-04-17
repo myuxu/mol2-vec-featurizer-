@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: mol2vec
+Version: 0.1
+Summary: Mol2vec - an unsupervised machine learning approach to learn vector representations of molecular                     substructures
+Home-page: http://github.com/samoturk/mol2vec
+Author: Samo Turk, Sabrina Jaeger, Simone Fulle
+Author-email: samo.turk@gmail.com, sabrina.jaeger@t-online.de, fulle@bio.mx
+License: BSD 3-clause
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD 3-clause
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Cheminformatics :: Featurization
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: gensim
+Requires-Dist: tqdm
+Requires-Dist: joblib
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: IPython
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary

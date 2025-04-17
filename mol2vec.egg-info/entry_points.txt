@@ -1,0 +1,2 @@
+[console_scripts]
+mol2vec = mol2vec.app.mol2vec:run
